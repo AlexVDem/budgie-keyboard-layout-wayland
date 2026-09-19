@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src="screenshot.png" alt="Budgie Keyboard Layout Applet Screenshot" />
+</p>
+
+---
+
 <a name="english"></a>
 ## English
 
