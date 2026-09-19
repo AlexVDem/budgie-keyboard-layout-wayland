@@ -1,0 +1,10 @@
+[Plugin]
+Module=keyboard_layout_wayland
+Builtin=false
+Name=Keyboard Layout (Wayland)
+Description=Keyboard layout indicator and switcher for Budgie under Wayland (Labwc)
+Description[ru]=Индикатор и переключатель раскладки клавиатуры под Wayland (Labwc)
+Authors=Budgie Community
+Copyright=Copyright 2026
+Website=https://github.com
+Icon=input-keyboard
